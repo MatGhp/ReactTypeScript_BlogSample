@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7CD91844-164C-4D15-A236-62E62FDBEED7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6625577B-EA1D-4B15-A1A9-5856AFD6D90D}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ReactTypeScript_BlogSample", "src\reactTest\ReactTypeScript_BlogSample.xproj", "{5675185E-203A-43C6-BD72-8E1D050A6894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5675185E-203A-43C6-BD72-8E1D050A6894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5675185E-203A-43C6-BD72-8E1D050A6894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5675185E-203A-43C6-BD72-8E1D050A6894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5675185E-203A-43C6-BD72-8E1D050A6894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5675185E-203A-43C6-BD72-8E1D050A6894} = {7CD91844-164C-4D15-A236-62E62FDBEED7}
+	EndGlobalSection
+EndGlobal
