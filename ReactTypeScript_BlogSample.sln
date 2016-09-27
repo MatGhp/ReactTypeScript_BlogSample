@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6625577B-EA1D-4B15-A1A9-5856AFD6D90D}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		src\reactTest\README.md = src\reactTest\README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ReactTypeScript_BlogSample", "src\reactTest\ReactTypeScript_BlogSample.xproj", "{5675185E-203A-43C6-BD72-8E1D050A6894}"
